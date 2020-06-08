@@ -26,6 +26,6 @@ $risposte_quesiti = $connessione->query("SELECT rq.id_quesito,  r.id as id_rispo
             echo '<br>';
         }
     ?>
-    <button type="submit">Invia</button>
+    <button class="btn btn-white" type="submit">Invia</button>
 </form>
 <?php require "libs/footer.php" ?>
