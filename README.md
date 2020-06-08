@@ -1,1 +1,1 @@
-"# rivista_enigmistica" 
+Applicazione per quiz di una rivista enigmistica.
